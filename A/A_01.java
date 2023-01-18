@@ -13,6 +13,5 @@ class Main {
     int age = 2022 - birthyear + 1;
 
     System.out.println("You are " + age + " years old.");
-
   }
 }
