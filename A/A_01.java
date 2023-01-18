@@ -1,10 +1,7 @@
 import java.util.Scanner;
 
-class Main {
-  public static void main(String[] args) {
-    Main stepA = new Main();
-    stepA.a01();
-  }
+class A_01 {
+  
 
   void a01() {
     Scanner s = new Scanner(System.in);
